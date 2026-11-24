@@ -1,0 +1,12 @@
+[submodule "apps/storefront"]
+	path = apps/storefront
+	url = https://github.com/HoVietThang190704/roomhub-storefront.git
+[submodule "apps/admin-web"]
+	path = apps/admin-web
+	url = https://github.com/HoVietThang190704/roomhub-admin-web.git
+[submodule "apps/api"]
+	path = apps/api
+	url = https://github.com/HoVietThang190704/roomhub-api.git
+[submodule "apps/mobile"]
+	path = apps/mobile
+	url = https://github.com/HoVietThang190704/roomhub-mobile.git
